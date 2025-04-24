@@ -13,7 +13,7 @@ This simple webpage displays a set of image panels that expand when clicked — 
 
 ## 🔍 Preview
 
-![Screenshot of the working project]([..images/screenshot.png])
+![Screenshot of the working project]([images/Screenshot.png])
 
 ---
 
